@@ -16,36 +16,6 @@
   },
   "domains": [
     {
-      "portalNumber": "01",
-      "slug": "higher-education",
-      "name": "Higher Education",
-      "summary": "Learning, institutions, systems, outcomes, and public value.",
-      "scopeStatus": "provisional",
-      "stage": "foundation",
-      "site": "https://qedartifacts.org/higher-education/",
-      "repository": "https://github.com/qed-artifacts/higher-education"
-    },
-    {
-      "portalNumber": "02",
-      "slug": "quality-of-life",
-      "name": "Quality of Life",
-      "summary": "Conditions, capabilities, lived experience, measures, and consequences.",
-      "scopeStatus": "provisional",
-      "stage": "foundation",
-      "site": "https://qedartifacts.org/quality-of-life/",
-      "repository": "https://github.com/qed-artifacts/quality-of-life"
-    },
-    {
-      "portalNumber": "03",
-      "slug": "healthcare",
-      "name": "Healthcare",
-      "summary": "People, care, implementation, outcomes, systems, and stewardship.",
-      "scopeStatus": "provisional",
-      "stage": "foundation",
-      "site": "https://qedartifacts.org/healthcare/",
-      "repository": "https://github.com/qed-artifacts/healthcare"
-    },
-    {
       "portalNumber": "04",
       "slug": "aesthetics-and-fine-arts",
       "name": "Aesthetics and the Fine Arts",
@@ -136,6 +106,26 @@
       "repository": "https://github.com/qed-artifacts/food"
     },
     {
+      "portalNumber": "03",
+      "slug": "healthcare",
+      "name": "Healthcare",
+      "summary": "People, care, implementation, outcomes, systems, and stewardship.",
+      "scopeStatus": "provisional",
+      "stage": "foundation",
+      "site": "https://qedartifacts.org/healthcare/",
+      "repository": "https://github.com/qed-artifacts/healthcare"
+    },
+    {
+      "portalNumber": "01",
+      "slug": "higher-education",
+      "name": "Higher Education",
+      "summary": "Learning, institutions, systems, outcomes, and public value.",
+      "scopeStatus": "provisional",
+      "stage": "foundation",
+      "site": "https://qedartifacts.org/higher-education/",
+      "repository": "https://github.com/qed-artifacts/higher-education"
+    },
+    {
       "portalNumber": "13",
       "slug": "journalism-and-media",
       "name": "Journalism and Media",
@@ -204,6 +194,16 @@
       "stage": "seed",
       "site": "https://qedartifacts.org/quality-management/",
       "repository": "https://github.com/qed-artifacts/quality-management"
+    },
+    {
+      "portalNumber": "02",
+      "slug": "quality-of-life",
+      "name": "Quality of Life",
+      "summary": "Conditions, capabilities, lived experience, measures, and consequences.",
+      "scopeStatus": "provisional",
+      "stage": "foundation",
+      "site": "https://qedartifacts.org/quality-of-life/",
+      "repository": "https://github.com/qed-artifacts/quality-of-life"
     },
     {
       "portalNumber": "20",
