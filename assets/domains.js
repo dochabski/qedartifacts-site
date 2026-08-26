@@ -8,7 +8,10 @@ if (grid) {
     })
     .then((catalog) => {
       const fragment = document.createDocumentFragment();
-      for (const domain of catalog.domains) {
+      const domains = [...catalog.domains].sort((left, right) =>
+        left.name.localeCompare(right.name, "en", {sensitivity: "base"})
+      );
+      for (const domain of domains) {
         const link = document.createElement("a");
         link.href = `/${domain.slug}/`;
         const number = document.createElement("span");
