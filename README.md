@@ -4,6 +4,10 @@ This repository is the canonical public website and lightweight-app host for
 [qedartifacts.org](https://qedartifacts.org/). It contains only material that is
 appropriate for unrestricted public access.
 
+The canonical repository is owned by the `qed-artifacts` organization at
+<https://github.com/qed-artifacts/qed-artifacts.github.io>. Contributors use
+their individual GitHub identities; no personal account owns the site repository.
+
 ## Repository boundaries
 
 - **This repository:** the public organizational website, open documentation,
